@@ -1,24 +1,25 @@
-Here's a complete `README.md` file for your **React + Django Portfolio Website** with navigation that doesn’t reload the page. It includes **all setup steps and commands** for both frontend and backend.
+# **`React + Django`**
+
+Portfolio Website with navigation that doesn’t reload the page. It includes **all setup steps and commands** for both frontend and backend.
 
 ---
 
-```markdown
-# React + Django Portfolio Website
+## React + Django Portfolio Website
 
-This is a simple portfolio website built using **React** (frontend) and **Django** (backend). It includes multiple pages (`Home`, `About`, `Skills`, `Contact`) and a navigation bar that allows switching pages **without reloading** using React Router.
+This is a simple portfolio website built using **React** (frontend) and **Django** (backend).
+It includes multiple pages (`Home`, `About`, `Skills`, `Contact`)
+and a navigation bar that allows switching pages **without reloading** using React Router.
 
 ---
 
 ## 📁 Project Structure
 
 ```
-
 myportfolio/
 │
 ├── backend/        ← Django Project
 └── frontend/       ← React Project
-
-````
+```
 
 ---
 
@@ -202,8 +203,6 @@ App will open at: [http://localhost:3000](http://localhost:3000)
 * Django runs at `http://localhost:8080`
 
 ```
-
----
-
-Let me know if you'd like this `README.md` saved as a downloadable file or extended with backend API integration instructions!
+Let me know if you'd like this `README.md` saved as a downloadable file
+or extended with backend API integration instructions!
 ```
